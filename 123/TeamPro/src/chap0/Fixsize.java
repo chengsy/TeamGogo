@@ -1,4 +1,4 @@
-// march 23th
+// march 23thd 
 package chap0;
 public class Fixsize {
 public static void main(String[] args) {
