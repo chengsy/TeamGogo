@@ -1,3 +1,5 @@
+//git≠Ë≠Ë√a±º§F°H 1040327
+
 // march 23thd 
 package chap0;
 public class Fixsize {
